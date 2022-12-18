@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &713544423653129943
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1280714134591233366}
+  - component: {fileID: 375470116}
+  m_Layer: 0
+  m_Name: Property
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1280714134591233366
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 713544423653129943}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &375470116
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 713544423653129943}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d62f24a97ebc40345ab4ad949a0c9b9e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Sprites:
+  - {fileID: 21300000, guid: e9ecca28f584954418f6d7f89ab133bd, type: 3}
+  - {fileID: 21300000, guid: 90bda3402d15fe449bb95804919c62ef, type: 3}
+  - {fileID: 21300000, guid: 0bd704570da107e4d804beb597e858b1, type: 3}
+  - {fileID: 21300000, guid: 00658d2e820a3524693af1fa8edf54ae, type: 3}
+  - {fileID: 21300000, guid: 449d3095b493c1e439415d39c0d4da5a, type: 3}
+  - {fileID: 21300000, guid: eeba0ab50c707354db6e72f6beb78e75, type: 3}
+  - {fileID: 21300000, guid: 664593d65862cd04290444714ba8b38f, type: 3}
+  - {fileID: 21300000, guid: e0fc9b5d7d4f8a24c8e77b2da1096270, type: 3}
+  - {fileID: 21300000, guid: 1cf237bcb5904ec4d8d9a4f98a356e06, type: 3}
+  - {fileID: 21300000, guid: 3da8d36e2b600db4c97db8c9c3e9c561, type: 3}
+  - {fileID: 21300000, guid: 0bb912d11536bd74aac71755d7786d17, type: 3}
+  - {fileID: 21300000, guid: c5201802c18088745b8fb649698f45ee, type: 3}
+  - {fileID: 21300000, guid: d42d3cdc44861164a93b55b64fc315e8, type: 3}
+  Chance: []
